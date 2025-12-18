@@ -1,7 +1,7 @@
 # idelsoft-sdet-playwright-challenge
 
 This repository contains an automated testing framework for a web application, built using [Playwright](https://playwright.dev/) and TypeScript. It covers UI, API, and integration tests, and is structured for scalability and maintainability.
-Also is created to solve the Idelsoft QA Automation Challenge using 
+Also is created to solve the Idelsoft QA Automation Challenge using [This Test Suite](https://docs.google.com/document/d/15XUldXCAw9fpghxHO4nSr4d-E6PptHtaY3-VHkxFKmQ/edit?usp=sharing)
 ## Project Structure
 
 ```
